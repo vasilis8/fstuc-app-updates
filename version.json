@@ -1,6 +1,7 @@
 {
-  "latest_version": "1.0.1",
+  "latest_version": "1.0.0",
   "download_url": "https://link-to-your-new-installer.com/setup.exe",
   "release_notes": "Added new sensor telemetry and fixed GPS diamond symbols."
 }
+
 
